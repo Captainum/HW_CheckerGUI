@@ -1,0 +1,25 @@
+Processing file PW-2_backupclient5(1).txz.J10127
+
+Check results for group of tests: 
+ '.' =   0%,  '-' = 30%, '+' = 60%
+ '#' = 100%,  'C' = CPU time limit
+ 'A' = abort, 'S' = segfault error
++--------+---------------+-------+
+|  task  |  compilation  | tests |
++--------+---------------+-------+
+|0067-001    :   not found   : [   ] | source file 0067-001.cpp not found
+|0067-002    :   not found   : [   ] | source file 0067-002.cpp not found
+|0067-003    :   not found   : [   ] | source file 0067-003.cpp not found
+|0067-004    :   not found   : [   ] | source file 0067-004.cpp not found
+|0067-005    :   not found   : [   ] | source file 0067-005.cpp not found
+|0069    :   not found   : [   ] | source file 0069.cpp not found
+|0092    :   not found   : [   ] | source file 0092.cpp not found
+|0094    :   not found   : [   ] | source file 0094.cpp not found
+|0178-001    :   not found   : [   ] | source file 0178-001.cpp not found
+|0178-002    :   not found   : [   ] | source file 0178-002.cpp not found
+|0178-003    :   not found   : [   ] | source file 0178-003.cpp not found
+|0178-004    :   not found   : [   ] | source file 0178-004.cpp not found
+|0178-005    :   not found   : [   ] | source file 0178-005.cpp not found
+|0178-006    :   not found   : [   ] | source file 0178-006.cpp not found
++--------+---------------+-------+
+ TOTAL			   0 %
