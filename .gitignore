@@ -30,3 +30,19 @@
 *.exe
 *.out
 *.app
+
+# moc files
+*moc
+
+# SWP files
+*.swp
+.*.swp
+
+# pro files
+*.pro
+
+#Makefiles
+Makefile
+
+# TXT files (reports)
+*.txt
