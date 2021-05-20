@@ -35,8 +35,8 @@
 *moc
 
 # SWP files
-*.swp
-.*.swp
+*.swo
+.*.swo
 
 # pro files
 *.pro
